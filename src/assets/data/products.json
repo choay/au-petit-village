@@ -1,0 +1,38 @@
+[
+{   "id" : 1,
+    "url": "/assets/asterix.png",
+    "name":"astérix" ,
+    "category":"figurine" ,
+    "price": 15
+},
+{   "id" : 2,
+    "url":"/assets/obelix.png",
+    "name":"obélix" ,
+    "category":"figurine" ,
+    "price": 16
+},
+{   "id" : 0,
+    "url":"/assets/adrenaline.png",
+    "name":"adrenaline" ,
+    "category":"figurine" ,
+    "price": 25
+},
+{   "id" : 4,
+    "url": "/assets/zaza.png",
+    "name":"zaza" ,
+    "category":"figurine" ,
+    "price": 17
+},
+{   "id" : 5,
+    "url": "/assets/metrix.png",
+    "name":"métrix" ,
+    "category":"figurine" ,
+    "price": 18
+},
+{   "id" : 6,
+    "url": "/assets/panoramix.png",
+    "name":"panoramix" ,
+    "category":"figurine" ,
+    "price": 19
+}
+]

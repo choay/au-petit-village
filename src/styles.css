@@ -1,1 +1,38 @@
-/* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: Bubbleboddy;
+    src: url(/assets/BubbleboddyNeue-Bold\ Trial.ttf);
+}
+@font-face {
+    font-family: comfortaa;
+    src: url(/assets/Comfortaa-VariableFont_wght.ttf);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Bubbleboddy', sans-serif;
+  }
+
+
+
+body{
+    font-family: 'Comfortaa', sans-serif;
+    color: #151217 ;
+    margin: 0;
+}
+h1{
+    color: #DA001E;
+}
+.img-logo{
+    width: 100px;
+}
+button{
+    background-color: #FDD90B;
+}
+button:hover{
+    background-color: #F9D0A3;
+}
+input:focus{
+    background:transparent; 
+    border-color: #FDD90B;
+}
+
+
